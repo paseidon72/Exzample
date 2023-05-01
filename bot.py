@@ -2,7 +2,7 @@ from aiogram import Bot, Dispatcher, executor, types
 from asyncio import sleep
 
 
-bot = Bot('5915817058:AAEINnPJzQ6x-VfMVo4ft2XYmo4zrZwgokM')
+bot = Bot('5915817058:AA_EINn_PJzQ6x-VfMVo4ft2XYmo4zrZwgokM')
 dp = Dispatcher(bot)
 
 @dp.message_handler(commands=['start'])
